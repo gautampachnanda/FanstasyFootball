@@ -1,4 +1,6 @@
-/build
+build/
+.idea/
 *.iws
 *.ipr
 *.iml
+FantasyFootball/
